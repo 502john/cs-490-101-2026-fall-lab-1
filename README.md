@@ -28,7 +28,7 @@ Go to the instructor's repository at [https://github.com/njit-prof-bill/cs-490-2
 
 Fork the repository into one GitHub account owned by your team.
 
-The repository's owner must add all teammates as collaborators to the new repo.
+The repository's owner must add all teammates as collaborators to the new repo. This is your team repository for this exercise.
 
 Each teammate will clone the team repository locally.
 
@@ -42,8 +42,9 @@ The project manager should:
 
 - create a folder for the team under `teams/`
 - copy the example files into the new team folder
-- rename the files appropriately
-- update `team.md` with the team information
+- rename the files appropriately.
+- DO NOT USE TEAM NAME `Merge Survivors`
+- update `team.md` with the team information by replacing the file content.
 
 The project manager should commit and push these changes first.
 
