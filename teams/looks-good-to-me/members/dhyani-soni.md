@@ -2,18 +2,17 @@
 
 ## My Name
 
-Bill McCann
+Dhyani Soni
 
 ## Favorite Technology
 
 VS Code
+Claude
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
-- Gaming
-
+- Tennis
+- Crocheting, Painting
 ## Favorite Cartoon
 
-Spongebob Squarepants
+Curious George
