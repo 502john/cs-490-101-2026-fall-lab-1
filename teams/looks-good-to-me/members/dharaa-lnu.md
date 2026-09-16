@@ -2,18 +2,18 @@
 
 ## My Name
 
-Bill McCann
+Dharaa LNU 
 
 ## Favorite Technology
 
-VS Code
+Google colab
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
-- Gaming
+- Rock Climbing
+- Ice Skating
+- Swimming
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+Avatar: The Last Airbender 
