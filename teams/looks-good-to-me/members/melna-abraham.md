@@ -2,18 +2,18 @@
 
 ## My Name
 
-Bill McCann
+Melna Abraham
 
 ## Favorite Technology
 
-VS Code
+Python
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
-- Gaming
+- Video games
+- Walking
+- Cooking/baking
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+Phineas and Ferb
