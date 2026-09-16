@@ -2,18 +2,17 @@
 
 ## My Name
 
-Bill McCann
+Deekshitha Oku
 
 ## Favorite Technology
 
-VS Code
+Claude
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
-- Gaming
+- Drawing
+- Reading
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+Phineas and Ferb
