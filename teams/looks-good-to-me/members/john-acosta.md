@@ -2,18 +2,16 @@
 
 ## My Name
 
-Bill McCann
+John Acosta
 
 ## Favorite Technology
 
-VS Code
+Claude Code
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
-- Gaming
+- Rock Climbing
 
 ## Favorite Cartoon
+- Bobs Burgers
 
-Spongebob Squarepants
